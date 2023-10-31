@@ -1,4 +1,4 @@
-import Item from "./Item";
+
 
 export default function Stats({ items }) {
     if (!items.length)
